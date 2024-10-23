@@ -1,0 +1,17 @@
+body,html{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.trocador-de-cor{
+    text-align: center;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
